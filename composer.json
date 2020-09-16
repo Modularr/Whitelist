@@ -1,0 +1,10 @@
+{
+    "name": "modularr/whitelist",
+    "type": "library",
+    "description": "This is a very simple PHP Whitelist Library.",
+    "keywords": ["php","whitelist"],
+    "license": "UNLICENSE",
+    "autoload": {
+        "classmap": ["src/", "src/Whitelist.php"]
+    }
+}
